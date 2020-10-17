@@ -1,4 +1,5 @@
 # Password Generator
+![image](https://user-images.githubusercontent.com/70725231/96353391-530ab100-1080-11eb-9b76-c66a35506d95.png)
 ## User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
